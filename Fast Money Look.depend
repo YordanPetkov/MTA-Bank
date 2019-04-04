@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1475672420 source:d:\dani\programming\fml 2\fast money look\main.cpp
+	"All_Library.h"
+	"All_Define.h"
+	"BankAccount.h"
+	"LogoFML.h"
+	"OptionsForChoose.h"
+	"Loading_Database.h"
+	"PageWithOptions.h"
+
+1475587888 d:\dani\programming\fml 2\fast money look\bankaccount.h
+	"All_Library.h"
+
+1475672590 d:\dani\programming\fml 2\fast money look\logofml.h
+	"All_Library.h"
+	"All_Define.h"
+
+1475419167 d:\dani\programming\fml 2\fast money look\setcolour.h
+	"All_Library.h"
+
+1475597210 d:\dani\programming\fml 2\fast money look\gotoxy.h
+	"All_Library.h"
+
+1475592014 d:\dani\programming\fml 2\fast money look\all_library.h
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+	<fstream>
+	<string>
+
+1475587939 d:\dani\programming\fml 2\fast money look\optionsforchoose.h
+
+1475675765 d:\dani\programming\fml 2\fast money look\all_define.h
+
+1475589316 d:\dani\programming\fml 2\fast money look\loading_database.h
+
+1475673811 d:\dani\programming\fml 2\fast money look\new_account.h
+	"All_Library.h"
+	"All_Define.h"
+	"Account.h"
+	"NextIDcode.h"
+	"Password.h"
+
+1475670306 d:\dani\programming\fml 2\fast money look\account.h
+	"All_Library.h"
+	"All_Define.h"
+
+1475682488 d:\dani\programming\fml 2\fast money look\pagewithoptions.h
+	"All_Library.h"
+	"All_Define.h"
+	"New_Account.h"
+	"Available_Cash.h"
+	"Table_Data.h"
+
+1475595303 d:\dani\programming\fml 2\fast money look\nextidcode.h
+	"All_Library.h"
+	"All_Define.h"
+
+1475673811 d:\dani\programming\fml 2\fast money look\password.h
+	"All_Library.h"
+	"All_Define.h"
+
+1475676003 d:\dani\programming\fml 2\fast money look\available_cash.h
+	"All_Library.h"
+	"All_Define.h"
+	"ACPassword.h"
+
+1475673974 d:\dani\programming\fml 2\fast money look\acpassword.h
+	"All_Library.h"
+	"All_Define.h"
+
+1475682247 d:\dani\programming\fml 2\fast money look\all_accounts.h
+	"All_Library.h"
+	"All_Define.h"
+
+1475682518 d:\dani\programming\fml 2\fast money look\table_data.h
+	"All_Library.h"
+	"All_Define.h"
+

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Fast Money Look" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Fast Money Look" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Fast Money Look" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="ACPassword.h" />
+		<Unit filename="Account.h" />
+		<Unit filename="All_Accounts.h" />
+		<Unit filename="All_Define.h" />
+		<Unit filename="All_Library.h" />
+		<Unit filename="Available_Cash.h" />
+		<Unit filename="BankAccount.h" />
+		<Unit filename="GotoXY.h" />
+		<Unit filename="Loading_Database.h" />
+		<Unit filename="LogoFML.h" />
+		<Unit filename="New_Account.h" />
+		<Unit filename="NextIDcode.h" />
+		<Unit filename="OptionsForChoose.h" />
+		<Unit filename="PageWithOptions.h" />
+		<Unit filename="Password.h" />
+		<Unit filename="SetColour.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
